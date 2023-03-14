@@ -1,0 +1,16 @@
+{
+  "name": "pnpmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "2",
+    "@blackbird/cdk": "github:BlackbirdHQ/module-cdk-actions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
